@@ -2,16 +2,20 @@
 
 This folder contains screenshots of the Happy Places Android app for the main README file.
 
-## 📸 Required Screenshots
+## 📸 Current Screenshots
 
-Please add the following screenshots to this folder:
+The following screenshots are currently available in this folder:
 
-1. **`login_screen.png`** - Login/Registration screen showing the authentication UI
-2. **`main_screen.png`** - Main dashboard with the list of happy places
-3. **`add_place.png`** - Add new happy place screen with form fields
-4. **`detail_view.png`** - Happy place detail view showing all information
-5. **`map_view.png`** - Map view showing happy places on Google Maps
-6. **`swipe_actions.png`** - Demonstration of swipe-to-edit/delete gestures
+1. **`login_screen.png`** - Login screen showing the authentication UI
+2. **`registration_screen.png`** - User registration interface
+3. **`main_screen.png`** - Main dashboard with the list of happy places
+4. **`add_place.png`** - Add new happy place screen with form fields
+5. **`detail_view.png`** - Happy place detail view showing all information
+6. **`edit_action.png`** - Demonstration of swipe-to-edit gesture
+7. **`delete_action.png`** - Demonstration of swipe-to-delete gesture
+
+### Missing Screenshots (Optional):
+- **`map_view.png`** - Map view showing happy places on Google Maps
 
 ## 🎯 Screenshot Guidelines
 

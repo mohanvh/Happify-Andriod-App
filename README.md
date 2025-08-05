@@ -95,21 +95,28 @@ Before running this project, make sure you have:
 
 ## 📱 Screenshots
 
-> **📸 Add your app screenshots here!**
-> 
-> Create a `screenshots/` folder in your repository root and add the following images:
-> - `login_screen.png` - Login/Registration screen
-> - `main_screen.png` - Main dashboard with happy places list
-> - `add_place.png` - Add new happy place screen
-> - `detail_view.png` - Happy place detail view
-> - `map_view.png` - Map view of happy places
-> - `swipe_actions.png` - Swipe gestures demonstration
+Here are some screenshots showcasing the key features of the Happy Places app:
 
-### Screenshot Guidelines:
-- **Size**: 1080x1920 pixels (9:16 ratio) or 1920x1080 (16:9 ratio)
-- **Format**: PNG or JPG
-- **Quality**: High resolution, clear and crisp
-- **Content**: Show the most important features and UI elements
+![Login Screen](screenshots/login_screen.png)
+*Login screen with user authentication*
+
+![Registration Screen](screenshots/registration_screen.png)
+*User registration interface*
+
+![Main Screen](screenshots/main_screen.png)
+*Main dashboard displaying the list of happy places*
+
+![Add Place](screenshots/add_place.png)
+*Add new happy place screen with form fields*
+
+![Detail View](screenshots/detail_view.png)
+*Happy place detail view showing all information*
+
+![Edit Action](screenshots/edit_action.png)
+*Swipe-to-edit gesture demonstration*
+
+![Delete Action](screenshots/delete_action.png)
+*Swipe-to-delete gesture demonstration*
 
 ## 🏗 Project Structure
 
