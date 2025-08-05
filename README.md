@@ -154,9 +154,7 @@ The app requires the following permissions:
 3. Add the API key to `strings.xml`
 4. Enable billing (required for Google Maps API)
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📄 License
 
@@ -168,13 +166,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@mohanvh](https://github.com/mohanvh)
 - Project Link: [https://github.com/mohanvh/Happify-Andriod-App](https://github.com/mohanvh/Happify-Andriod-App)
 
-## 🙏 Acknowledgments
-
-- [Material Design](https://material.io/) for UI components
-- [Google Maps API](https://developers.google.com/maps) for location services
-- [Dexter](https://github.com/Karumi/Dexter) for runtime permissions
-- [CircleImageView](https://github.com/hdodenhof/CircleImageView) for circular images
-
----
 
 ⭐ **Star this repository if you found it helpful!** 
